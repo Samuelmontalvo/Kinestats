@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "KINE-STATS: a practical statistical approach to common kinesiology research using R"
+author: "Samuel Montalvo, Ph.D."
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
