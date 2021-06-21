@@ -1,3 +1,6 @@
 introduction
 correlation
 t-test
+anova
+r-markdown
+including-plots
