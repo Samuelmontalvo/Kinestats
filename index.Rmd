@@ -7,7 +7,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-knitr::include_graphics(C:/Users/Samuel Montalvo/Desktop\Kine2.png) 
+![](https://github.com/Samuelmontalvo/Kinestats/blob/master/Kine.png) 
 
 ## Preface
 
