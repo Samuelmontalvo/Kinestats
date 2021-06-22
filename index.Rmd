@@ -7,7 +7,7 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-![](https://github.com/Samuelmontalvo/Kinestats/blob/master/Kine.png) 
+[](https://drive.google.com/file/d/1CZfxLHPbEeQ1NzLRTl59ZBWdpG1zidJa/view?usp=sharing)
 
 ## Preface
 
