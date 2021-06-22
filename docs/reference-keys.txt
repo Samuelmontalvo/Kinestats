@@ -2,4 +2,3 @@ introduction
 correlation
 t-test
 anova
-introduction-1
