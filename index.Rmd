@@ -9,6 +9,7 @@ site: bookdown::bookdown_site
 
 ![](C:/Users/Samuel Montalvo/Desktop\Kine2.png)
 
+## Preface
 
 As the study of human movement and performance, Kinesiology is dependent of the 
 advances practitioners, coaches, and athletes create through pragmatic and 
