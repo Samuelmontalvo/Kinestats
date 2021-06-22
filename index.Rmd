@@ -20,3 +20,15 @@ Hence, the primary objective of this book is to provide an easy to follow
 manual on how to applied basic statistics to common Kinesiology problems using
 real-data from sports such as Football, Hockey, Soccer, Wushu, Gymnastics, and
 Track and Field. 
+
+## Structure of the book
+
+In order to simplify and provide an easy to follow guide, this book will be 
+structured as follows. First, data provided has been processed and cleaned up
+for easy management, then, a link is provided to the research article or 
+peer-review abstract from where this data came or is simulated from. Second, 
+the purpose and hypothesis are explained, along with the research design. Third,
+a visualization of the data is performed. Fourth, the data is analyzed. Fifth, 
+and most importantly, several forms on how to report the findings are 
+presented in APA format.
+

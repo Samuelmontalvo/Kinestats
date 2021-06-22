@@ -1,5 +1,6 @@
 introduction
 preface
+structure-of-the-book
 correlation
 t-test
 anova
