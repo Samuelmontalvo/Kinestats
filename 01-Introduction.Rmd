@@ -1,0 +1,13 @@
+# Introduction
+
+
+As the study of human movement and performance, Kinesiology is dependent of the 
+advances practitioners, coaches, and athletes create through pragmatic and 
+objective means using the scientific method. During my Ph.D. studies I often
+encounter graduate students and undergraduate students being discouraged of 
+the use of statistics due to their complexity and familiarity with the field.
+Hence, the primary objective of this book is to provide an easy to follow 
+manual on how to applied basic statistics to common Kinesiology problems using
+real-data from sports such as Football, Hockey, Soccer, Wushu, Gymnastics, and
+Track and Field. 
+
