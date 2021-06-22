@@ -5,6 +5,8 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
+# Introduction
+
 ![](C:/Users/Samuel Montalvo/Desktop\Kine2.png)
 As the study of human movement and performance, Kinesiology is dependent of the 
 advances practitioners, coaches, and athletes create through pragmatic and 
