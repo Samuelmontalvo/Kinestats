@@ -3,4 +3,6 @@ preface
 structure-of-the-book
 correlation
 t-test
-anova
+analysis-of-variance
+repeated-measures
+sample-size-and-power
