@@ -1,12 +1,4 @@
---- 
-title: "KINE-STATS: a practical statistical approach to common kinesiology research using R"
-author: "Samuel Montalvo, Ph.D."
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
----
-
-![](C:/Users/Samuel Montalvo/Desktop\Kine2.png)
-
+# Introduction
 
 As the study of human movement and performance, kinesiology is dependent of the 
 advances practioners, coaches, and atheltes create through pragmatic and 
