@@ -7,9 +7,9 @@ site: bookdown::bookdown_site
 
 # Introduction
 
-
+<center>
 [![](https://i.imgur.com/t4cSxn5.png)](https://imgur.com/t4cSxn5)
-
+</center>
 
 ## Preface
 
