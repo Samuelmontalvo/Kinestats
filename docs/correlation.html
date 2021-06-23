@@ -179,43 +179,7 @@ kinetic parameters of the vertical jump and vertical jump height.</p>
 <span id="cb1-2"><a href="correlation.html#cb1-2" aria-hidden="true" tabindex="-1"></a>Malaysia_Kinestats <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">&quot;Malaysia_Kinestats.xlsx&quot;</span>)</span>
 <span id="cb1-3"><a href="correlation.html#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">View</span>(Malaysia_Kinestats)</span>
 <span id="cb1-4"><a href="correlation.html#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">attach</span>(Malaysia_Kinestats)</span></code></pre></div>
-<pre><code>## The following objects are masked from Malaysia_Kinestats (pos = 3):
-## 
-##     Avg._Braking_Force, Avg._Braking_Power, Avg._Braking_Velocity,
-##     Avg._Propulsive_Force, Avg._Propulsive_Power, Avg._Propulsive_Velocity,
-##     Avg._Relative_Braking_Force, Avg._Relative_Braking_Power,
-##     Avg._Relative_Propulsive_Force, Avg._Relative_Propulsive_Power,
-##     Braking_Impulse, Braking_Net_Impulse, Braking_Phase, Braking_Phase_%,
-##     Braking_RFD, Countermovement_Depth, Flight_Time,
-##     Force_at_Min_Displacement, ID, Impulse_Ratio, JH, Jump_Momentum, mRSI,
-##     Peak_Braking_Force, Peak_Braking_Power, Peak_Propulsive_Force,
-##     Peak_Propulsive_Power, Peak_Relative_Braking_Force,
-##     Peak_Relative_Braking_Power, Peak_Relative_Propulsive_Force,
-##     Peak_Relative_Propulsive_Power, Peak_Velocity, Period, Positive_Impulse,
-##     Positive_Net_Impulse, Propulsive_Impulse, Propulsive_Net_Impulse,
-##     Propulsive_Phase, Propulsive_Phase_%, Relative_Braking_Impulse,
-##     Relative_Braking_Net_Impulse, Relative_Propulsive_Impulse,
-##     Relative_Propulsive_Net_Impulse, RSI, Stiffness, Takeoff_Velocity,
-##     Time_To_Takeoff, Unweighting_Phase, Unweighting_Phase_%</code></pre>
-<pre><code>## The following objects are masked from Malaysia_Kinestats (pos = 4):
-## 
-##     Avg._Braking_Force, Avg._Braking_Power, Avg._Braking_Velocity,
-##     Avg._Propulsive_Force, Avg._Propulsive_Power, Avg._Propulsive_Velocity,
-##     Avg._Relative_Braking_Force, Avg._Relative_Braking_Power,
-##     Avg._Relative_Propulsive_Force, Avg._Relative_Propulsive_Power,
-##     Braking_Impulse, Braking_Net_Impulse, Braking_Phase, Braking_Phase_%,
-##     Braking_RFD, Countermovement_Depth, Flight_Time,
-##     Force_at_Min_Displacement, ID, Impulse_Ratio, JH, Jump_Momentum, mRSI,
-##     Peak_Braking_Force, Peak_Braking_Power, Peak_Propulsive_Force,
-##     Peak_Propulsive_Power, Peak_Relative_Braking_Force,
-##     Peak_Relative_Braking_Power, Peak_Relative_Propulsive_Force,
-##     Peak_Relative_Propulsive_Power, Peak_Velocity, Period, Positive_Impulse,
-##     Positive_Net_Impulse, Propulsive_Impulse, Propulsive_Net_Impulse,
-##     Propulsive_Phase, Propulsive_Phase_%, Relative_Braking_Impulse,
-##     Relative_Braking_Net_Impulse, Relative_Propulsive_Impulse,
-##     Relative_Propulsive_Net_Impulse, RSI, Stiffness, Takeoff_Velocity,
-##     Time_To_Takeoff, Unweighting_Phase, Unweighting_Phase_%</code></pre>
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="correlation.html#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cor</span>(JH,mRSI)</span></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="correlation.html#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cor</span>(JH,mRSI)</span></code></pre></div>
 <pre><code>## [1] 0.8084541</code></pre>
 
 </div>
