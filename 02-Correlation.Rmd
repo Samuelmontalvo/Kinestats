@@ -1,2 +1,21 @@
 #  Correlation
 
+Correlation is the relationship (association) between two variables. In sport
+sciences we can see positive relationships between lean muscle mass and 
+1-repetition maximum squat, in contrast, there is an inverse relationship, a 
+negative relationship between body fat and vertical jump performance. Below we
+will look into two data set. The first is an association between percentage of
+body fat and vertical jump performance, and the second is an association within
+kinetic parameters of the vertical jump and vertical jump height. 
+
+```{r}
+library(readxl)
+Malaysia_Kinestats <- read_excel("Malaysia_Kinestats.xlsx")
+View(Malaysia_Kinestats)
+attach(Malaysia_Kinestats)
+```
+
+
+```{r}
+cor(JH,mRSI)
+```
